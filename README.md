@@ -1,6 +1,4 @@
 # hello-world
 first attempt
 This is the change for the first commit in the branch readme.md
-testtesttest
-lskdjf
-sfdlks
+this is a journey into the sun
